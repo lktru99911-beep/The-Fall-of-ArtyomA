@@ -1,0 +1,54 @@
+{
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "singLEFT",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "singDOWN",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singUP",
+      "name": "singUP",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "singRIGHT",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    }
+  ],
+  "image": "characters/artyom",
+  "scale": 1,
+  "sing_duration": 4,
+  "healthicon": "artyom",
+  "position": [0, 0],
+  "camera_position": [0, 0],
+  "healthbar_colors": [180, 0, 0],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "vocals_file": ""
+}
